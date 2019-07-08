@@ -1,5 +1,5 @@
 
-Read description of project in redcoat.html
+Read pitch/description of project in redcoat.html
 
 See samplesurvey.pdf above for sample manual survey
 
